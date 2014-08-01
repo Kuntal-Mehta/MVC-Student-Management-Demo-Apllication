@@ -1,0 +1,8 @@
+c:\users\kuntal\documents\visual studio 2013\Projects\ViewportAdornment1\ViewportAdornment1\bin\Debug\ViewportAdornment1.dll
+c:\users\kuntal\documents\visual studio 2013\Projects\ViewportAdornment1\ViewportAdornment1\bin\Debug\ViewportAdornment1.pdb
+c:\users\kuntal\documents\visual studio 2013\Projects\ViewportAdornment1\ViewportAdornment1\bin\Debug\ViewportAdornment1.vsix
+c:\users\kuntal\documents\visual studio 2013\Projects\ViewportAdornment1\ViewportAdornment1\bin\Debug\extension.vsixmanifest
+c:\users\kuntal\documents\visual studio 2013\Projects\ViewportAdornment1\ViewportAdornment1\obj\Debug\ViewportAdornment1.csprojResolveAssemblyReference.cache
+c:\users\kuntal\documents\visual studio 2013\Projects\ViewportAdornment1\ViewportAdornment1\obj\Debug\ViewportAdornment1.dll
+c:\users\kuntal\documents\visual studio 2013\Projects\ViewportAdornment1\ViewportAdornment1\obj\Debug\ViewportAdornment1.pdb
+c:\users\kuntal\documents\visual studio 2013\Projects\ViewportAdornment1\ViewportAdornment1\obj\Debug\extension.vsixmanifest

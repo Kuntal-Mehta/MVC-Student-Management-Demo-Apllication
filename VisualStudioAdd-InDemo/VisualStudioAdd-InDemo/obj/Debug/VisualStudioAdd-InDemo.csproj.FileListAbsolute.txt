@@ -1,0 +1,7 @@
+C:\Users\kuntal\documents\visual studio 2013\Projects\VisualStudioAdd-InDemo\VisualStudioAdd-InDemo\bin\Debug\VisualStudioAdd-InDemo.dll
+C:\Users\kuntal\documents\visual studio 2013\Projects\VisualStudioAdd-InDemo\VisualStudioAdd-InDemo\bin\Debug\VisualStudioAdd-InDemo.pdb
+C:\Users\kuntal\documents\visual studio 2013\Projects\VisualStudioAdd-InDemo\VisualStudioAdd-InDemo\bin\Debug\VisualStudioAdd-InDemo.xml
+C:\Users\kuntal\documents\visual studio 2013\Projects\VisualStudioAdd-InDemo\VisualStudioAdd-InDemo\obj\Debug\VisualStudioAdd-InDemo.csprojResolveAssemblyReference.cache
+C:\Users\kuntal\documents\visual studio 2013\Projects\VisualStudioAdd-InDemo\VisualStudioAdd-InDemo\obj\Debug\VisualStudioAdd-InDemo.csproj.ResolveComReference.cache
+C:\Users\kuntal\documents\visual studio 2013\Projects\VisualStudioAdd-InDemo\VisualStudioAdd-InDemo\obj\Debug\VisualStudioAdd-InDemo.dll
+C:\Users\kuntal\documents\visual studio 2013\Projects\VisualStudioAdd-InDemo\VisualStudioAdd-InDemo\obj\Debug\VisualStudioAdd-InDemo.pdb

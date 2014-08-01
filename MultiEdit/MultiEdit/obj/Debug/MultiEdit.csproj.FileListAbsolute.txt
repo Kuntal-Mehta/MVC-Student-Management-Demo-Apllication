@@ -1,0 +1,8 @@
+c:\users\kuntal\documents\visual studio 2013\Projects\MultiEdit\MultiEdit\bin\Debug\MultiEdit.dll
+c:\users\kuntal\documents\visual studio 2013\Projects\MultiEdit\MultiEdit\bin\Debug\MultiEdit.pdb
+c:\users\kuntal\documents\visual studio 2013\Projects\MultiEdit\MultiEdit\bin\Debug\MultiEdit.vsix
+c:\users\kuntal\documents\visual studio 2013\Projects\MultiEdit\MultiEdit\bin\Debug\extension.vsixmanifest
+c:\users\kuntal\documents\visual studio 2013\Projects\MultiEdit\MultiEdit\obj\Debug\MultiEdit.csprojResolveAssemblyReference.cache
+c:\users\kuntal\documents\visual studio 2013\Projects\MultiEdit\MultiEdit\obj\Debug\MultiEdit.dll
+c:\users\kuntal\documents\visual studio 2013\Projects\MultiEdit\MultiEdit\obj\Debug\MultiEdit.pdb
+c:\users\kuntal\documents\visual studio 2013\Projects\MultiEdit\MultiEdit\obj\Debug\extension.vsixmanifest

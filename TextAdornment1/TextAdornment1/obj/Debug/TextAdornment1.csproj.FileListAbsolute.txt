@@ -1,0 +1,7 @@
+c:\users\kuntal\documents\visual studio 2013\Projects\TextAdornment1\TextAdornment1\bin\Debug\TextAdornment1.dll
+c:\users\kuntal\documents\visual studio 2013\Projects\TextAdornment1\TextAdornment1\bin\Debug\TextAdornment1.pdb
+c:\users\kuntal\documents\visual studio 2013\Projects\TextAdornment1\TextAdornment1\obj\Debug\TextAdornment1.dll
+c:\users\kuntal\documents\visual studio 2013\Projects\TextAdornment1\TextAdornment1\obj\Debug\TextAdornment1.pdb
+c:\users\kuntal\documents\visual studio 2013\Projects\TextAdornment1\TextAdornment1\obj\Debug\extension.vsixmanifest
+c:\users\kuntal\documents\visual studio 2013\Projects\TextAdornment1\TextAdornment1\bin\Debug\TextAdornment1.vsix
+c:\users\kuntal\documents\visual studio 2013\Projects\TextAdornment1\TextAdornment1\bin\Debug\extension.vsixmanifest

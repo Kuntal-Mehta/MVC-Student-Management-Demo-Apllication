@@ -1,0 +1,3 @@
+C:\Users\kuntal\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Promact\TagIt\1.0\\TagIt.dll
+C:\Users\kuntal\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Promact\TagIt\1.0\\extension.vsixmanifest
+C:\Users\kuntal\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Promact\TagIt\1.0\\TagIt.pdb

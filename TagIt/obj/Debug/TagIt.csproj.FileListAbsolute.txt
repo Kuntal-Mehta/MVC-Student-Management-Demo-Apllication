@@ -1,8 +1,0 @@
-c:\users\kuntal\documents\visual studio 2013\Projects\TagIt\bin\Debug\TagIt.dll
-c:\users\kuntal\documents\visual studio 2013\Projects\TagIt\bin\Debug\TagIt.pdb
-c:\users\kuntal\documents\visual studio 2013\Projects\TagIt\obj\Debug\TagIt.csprojResolveAssemblyReference.cache
-c:\users\kuntal\documents\visual studio 2013\Projects\TagIt\obj\Debug\TagIt.dll
-c:\users\kuntal\documents\visual studio 2013\Projects\TagIt\obj\Debug\TagIt.pdb
-c:\users\kuntal\documents\visual studio 2013\Projects\TagIt\obj\Debug\extension.vsixmanifest
-C:\Users\kuntal\Documents\Visual Studio 2013\Projects\TagIt\bin\Debug\TagIt.vsix
-C:\Users\kuntal\Documents\Visual Studio 2013\Projects\TagIt\bin\Debug\extension.vsixmanifest

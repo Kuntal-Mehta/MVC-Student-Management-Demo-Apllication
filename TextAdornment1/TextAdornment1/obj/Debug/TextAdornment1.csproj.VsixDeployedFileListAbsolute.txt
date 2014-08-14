@@ -1,3 +1,0 @@
-C:\Users\kuntal\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Kuntal\TextAdornment1\1.0\\TextAdornment1.dll
-C:\Users\kuntal\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Kuntal\TextAdornment1\1.0\\extension.vsixmanifest
-C:\Users\kuntal\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Kuntal\TextAdornment1\1.0\\TextAdornment1.pdb
